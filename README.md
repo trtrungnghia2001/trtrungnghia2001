@@ -2,7 +2,7 @@
 
 <!-- 1. NÚT BẤM MỞ / TẢI CV -->
 <p align="left">
-  <a href="https://github.com/trtrungnghia2001/trtrungnghia2001/blob/main/CV_Frontend_TrinhTrungNghia.pdf" target="_blank">
+  <a href="https://github.com/trtrungnghia2001/trtrungnghia2001/blob/main/CV_TranTrungNghia_Fresher_Junior_HN.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume_(PDF)-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
